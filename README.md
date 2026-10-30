@@ -10,4 +10,4 @@ Always looking for help on coding, any tips or help are *always* welcomed,
 
 
 The tools i mainly use are python, pycharm, and very rarely VC studio.
-My next project is making a makeshift rocket, and ill be documenting it on Youtube, so subscribe (and wait for the next 4 years, haha!)
+My next project is making a makeshift rocket, and I'll be documenting it on Youtube, so subscribe (and wait for the next 4 years, haha!)
